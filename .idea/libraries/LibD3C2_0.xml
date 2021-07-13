@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="LibD3C2.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/LibD3C2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

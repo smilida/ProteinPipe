@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="mrmd">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/mrmd.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

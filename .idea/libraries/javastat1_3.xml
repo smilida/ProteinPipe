@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="javastat1.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/javastat1.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
